@@ -2,7 +2,7 @@
 #### Made at work to convert a price-list from PDF to Excel to import the prices to save time during my summerinternship at NorskeNettbutikker
 Being present working full time at their warehouse in Bergen sometimes left me with time left over to do some experimentation, and this is one of the projects that came as a result
 #### This project is being shared with permission of my employer
-The comments have been made in Norwegian (with no experience in coding) to help my employer use it if he ever so wished to
+The comments have been made in Norwegian to help my employer (with no experience in coding) use it if he ever so wished to
 
 ## The problem this solves
 Not all suppliers have their pricelists in CSV or Excel formats, something that makes it impossible to import their price lists with our current tools <br>
