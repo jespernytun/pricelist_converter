@@ -14,6 +14,6 @@ We use re to seach for regular expressions on those lines to identify different 
 It then takes all the info and stores in an xlsx file, that can be used for importation, using pandas <br>
 
 ## DISCLAIMER
-The example.pdf file I have uploaded along with this project is not an official pricelist from any supplier in any capacity. All prices have been REDACTED, along with item IDs and product descriptions.
+The example.pdf file I have uploaded along with this project is not an official pricelist from any supplier in any capacity. **All prices have been REDACTED, along with item IDs and product descriptions.**
 
 The calculations for contribution margins (or equivalent) have either been set to one. The numbers in the second project are given a random multiplier just to make the output look nicer, and are not our actual prices.
